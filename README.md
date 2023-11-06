@@ -1,2 +1,2 @@
 # ojuwoye-ecommerce
-A ecommerce hub for grossary items
+An ecommerce hub for grossary items
