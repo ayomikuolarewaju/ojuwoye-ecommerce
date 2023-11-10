@@ -1,7 +1,7 @@
 export const load = async ({fetch}) => {
     const getDetails = async()=>{
          try{
-          const res = await fetch("http://localhost:5173/api/post")
+          const res = await fetch("http://cheerful-beijinho-1f19f6.netlify.app/api/post")
           const task  = await res.json()
           return task
          }catch (e){
